@@ -1,5 +1,5 @@
 import React, {useState, useEffect} from 'react'
-import '../src/app.css'
+import './App.css'
 import From from './Components/From'
 import TodoList from './Components/TodoList'
 

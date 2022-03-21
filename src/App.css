@@ -114,7 +114,7 @@ select {
   position: relative;
   overflow: hidden;
 }
-select {
+.select {
   color: #ff6f47;
   font-family: "Poppins", sans-serif;
   cursor: pointer;
